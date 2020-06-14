@@ -13,7 +13,7 @@ A Kotlin based android mobile Weather Application showing all the weather detail
 
 5) Go to Following Link To Install The Application. 
 
-# Link to Install 
+# Link to Download and Install Application:
  https://drive.google.com/file/d/10sYm8PHr9kORxUZJ77FzyMTG9Ut0EZ8_/view?usp=sharing
  
 # Images 
