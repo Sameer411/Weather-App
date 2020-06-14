@@ -3,7 +3,7 @@ A Kotlin based android mobile Weather Application showing all the weather detail
 
 # StepS To Access The Project
 
-1) Download and Extract the file
+1) Download and Extract the file (Weather.zip)
 
 2) Start Android Studio and open mainActivity.kt file. (Kotlin File) also, open the XML File
 
