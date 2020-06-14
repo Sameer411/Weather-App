@@ -1,7 +1,7 @@
 # Weather-App
 A Kotlin based android mobile Weather Application showing all the weather details on the user interface using the OpenWeatherMap API.
 
-# StepS To Access The Project
+# Steps To Access The Project
 
 1) Download and Extract the file (Weather.zip)
 
@@ -13,7 +13,7 @@ A Kotlin based android mobile Weather Application showing all the weather detail
 
 5) Go to Following Link To Install The Application. 
 
-# Link: 
+# Link to Install 
  https://drive.google.com/file/d/10sYm8PHr9kORxUZJ77FzyMTG9Ut0EZ8_/view?usp=sharing
  
 # Images 
